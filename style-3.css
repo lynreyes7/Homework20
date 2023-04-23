@@ -1,0 +1,275 @@
+
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:700|Open+Sans:400|Abel:400");
+
+:root {
+  --pink: #f6a8a8;
+  --white: #ffffff;
+  --black: #000000;
+  --font-size-xl: 40px;
+  --font-size-xs: 19px;
+  --font-size-m: 24px;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-abel: "Abel", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 100px;
+  height: 1528px;
+  padding: 0 24px;
+  width: 1618px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.screenshot-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 208px;
+  min-height: 1415px;
+  width: 447px;
+}
+
+.screenshot-2023-04-09-at-747-2 {
+  height: 298px;
+  margin-top: 73px;
+  width: 392px;
+}
+
+.screenshot-2023-04-06-at-1146-1 {
+  align-self: flex-start;
+  height: 231px;
+  object-fit: cover;
+  width: 109px;
+}
+
+.screenshot-2023-04-06-at-101-1 {
+  height: 322px;
+  margin-top: 73px;
+  width: 390px;
+}
+
+.screenshot-2023-04-06-at-1251-1 {
+  height: 322px;
+  margin-top: 73px;
+  width: 390px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  min-height: 1255px;
+  width: 815px;
+}
+
+.users-can-access-hel {
+  align-items: flex-start;
+  display: flex;
+  height: 66px;
+  margin-left: 40px;
+  margin-top: 235px;
+  min-width: 580px;
+}
+
+.opensans-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.users-can-access-hel-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -28px;
+  min-height: 66px;
+  width: 580px;
+}
+
+.group-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 40px;
+  min-width: 496px;
+}
+
+.desktop-3 .overlap {
+  align-items: center;
+  background-color: var(--pink);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+}
+
+.overlap-group3 {
+  min-width: 104px;
+  padding: 0 10px;
+}
+
+.abel-normal-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-abel);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.label-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  width: 83px;
+}
+
+.overlap-group2 {
+  min-width: 88px;
+  padding: 0 14px;
+}
+
+.label-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 58px;
+}
+
+.overlap-group1 {
+  justify-content: flex-end;
+  min-width: 88px;
+  padding: 0 13px;
+}
+
+.label-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 61px;
+}
+
+.overlap-group {
+  min-width: 88px;
+  padding: 0 23px;
+}
+
+.label {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 42px;
+}
+
+.low-fi-prototype-for {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  margin-left: 40px;
+  margin-top: 282px;
+  min-width: 572px;
+}
+
+.low-fi-prototype-for-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -28px;
+  min-height: 99px;
+  width: 572px;
+}
+
+.title {
+  color: #253237;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 0;
+  margin-top: 161px;
+  min-height: 47px;
+}
+
+.title {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.label-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 24px;
+  margin-left: 64.78px;
+  margin-top: 50px;
+  min-width: 343px;
+}
+
+.label-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 87px;
+  min-height: 24px;
+  width: 69px;
+}
+
+.label-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 75px;
+  min-height: 24px;
+  width: 65px;
+}
+
+.label-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  width: 47px;
+}
+
+.the-website-redesign {
+  align-items: flex-start;
+  display: flex;
+  height: 231px;
+  margin-left: 40px;
+  margin-top: 20px;
+  min-width: 537px;
+} 
+
+.the-website-redesign-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -28px;
+  min-height: 231px;
+  width: 537px;
+}
+
+.the-website-redesign-1 a {
+    color: black;
+  }
+
+  .link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
