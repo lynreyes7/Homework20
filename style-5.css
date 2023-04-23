@@ -1,17 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto:700|Open+Sans:400|Abel:400");
-:root {
-    --pink: #f6a8a8;
-    --white: #ffffff;
-    --black: #000000;
-    --charade: #253237;
-    --font-size-xl: 40px;
-    --font-size-xs: 19px;
-    --font-size-s: 20px;
-    --font-size-m: 24px;
-    --font-family-roboto: "Roboto", Helvetica;
-    --font-family-abel: "Abel", Helvetica;
-    --font-family-open_sans: "Open Sans", Helvetica;
-  }
+
 /* Body */
 body {
     font-family: "Roboto", Helvetica,;
@@ -74,7 +61,7 @@ body {
   
 
   
-  /* Main content */
+ 
   .container {
     background-color: #ffffff;
     padding: 2rem;
