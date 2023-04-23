@@ -1,4 +1,4 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
 
 @import url("https://fonts.googleapis.com/css?family=Abel:400|Roboto:700|Open+Sans:400,700");
 
@@ -340,4 +340,32 @@
   color: var(--charade);
   font-size: var(--font-size-l);
   font-weight: 700;
+}
+
+.jumbotron {
+  background-color: white;
+  padding: 4rem 2rem;
+  margin: 0 auto 2rem;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 3rem;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+
+.jumbotron hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.jumbotron a.btn {
+  font-size: 1.2rem;
 }
